@@ -1,0 +1,1 @@
+This is a template for client-server application using Angular2 for client and Spring-Boot for server.
